@@ -38,4 +38,5 @@ This calculator performs basic arithmetic as well as advanced scientific operati
 ---
 
 ## 📂 Project Structure
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/516fa129-f74a-4301-a374-9a43a1564ade" />
 
